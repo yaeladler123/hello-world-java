@@ -128,7 +128,7 @@
 								"command": "cp target/surefire-reports/TEST-*.xml test.xml",
 								"properties": null
 							}
-						]
+						],
 						"docker_options": {}
 					}
 				]
