@@ -274,6 +274,11 @@
 		},
 		"default_properties": [
 			{
+				"name": "additional_properties_file",
+				"value": "sonar-project.properties",
+				"type": "string"
+			},
+			{
 				"name": "gr.sonarscanner.after_build",
 				"value": "true",
 				"type": "boolean"
