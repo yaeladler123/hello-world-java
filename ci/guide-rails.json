@@ -3,7 +3,7 @@
 		"version": 2
 	},
 	"application": {
-		"name": "simple-hello-world-java",
+		"name": "simple-hello-world-java-yael",
 		"language": "JAVA_MAVEN",
 		"artifact_store": {
 			"type": "s3",
