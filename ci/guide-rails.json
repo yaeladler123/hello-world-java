@@ -107,7 +107,7 @@
 							{
 								"name": "test",
 								"definition": "test",
-								"command": "mvn surefire-report:report \n\nmvn cobertura:cobertura  -Dcobertura.report.format=xml  -Dcobertura.aggregate=true install -e",
+								"command": "mvn surefire-report:report \n",
 								"properties": null
 							},
 							{
